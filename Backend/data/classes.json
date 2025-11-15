@@ -1,0 +1,244 @@
+[
+  {
+    "id": "dept1_class1",
+    "name": "Class 1",
+    "deptId": "dept1",
+    "blockchain": {
+      "name": "School of Computing - Class 1",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197207182,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Computing - Class 1"
+          },
+          "prev_hash": "00009e5b829d04372864c7c93c2cfc328685e68f98ae68b919bd3a3cb107eb10",
+          "nonce": 40681,
+          "hash": "00002751b7922ba3fb5cce9c62186c958bba9bc0998abcabab808041d3c3a253"
+        }
+      ]
+    },
+    "createdAt": 1763197207415
+  },
+  {
+    "id": "dept1_class2",
+    "name": "Class 2",
+    "deptId": "dept1",
+    "blockchain": {
+      "name": "School of Computing - Class 2",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197234111,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Computing - Class 2"
+          },
+          "prev_hash": "00009e5b829d04372864c7c93c2cfc328685e68f98ae68b919bd3a3cb107eb10",
+          "nonce": 66142,
+          "hash": "0000eb1f34bb708143c1edee3cfaf620a7fa0c15c09d86379ad2720d728752c8"
+        }
+      ]
+    },
+    "createdAt": 1763197234327
+  },
+  {
+    "id": "dept1_class3",
+    "name": "Class 3",
+    "deptId": "dept1",
+    "blockchain": {
+      "name": "School of Computing - Class 3",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197573844,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Computing - Class 3"
+          },
+          "prev_hash": "00009e5b829d04372864c7c93c2cfc328685e68f98ae68b919bd3a3cb107eb10",
+          "nonce": 52259,
+          "hash": "000006a74bd2b6064d9f0b54dee5fe86a72ec996ce380803ec6157f3543f6871"
+        }
+      ]
+    },
+    "createdAt": 1763197574036
+  },
+  {
+    "id": "dept1_class4",
+    "name": "Class 4",
+    "deptId": "dept1",
+    "blockchain": {
+      "name": "School of Computing - Class 4",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197594449,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Computing - Class 4"
+          },
+          "prev_hash": "00009e5b829d04372864c7c93c2cfc328685e68f98ae68b919bd3a3cb107eb10",
+          "nonce": 76807,
+          "hash": "0000769d97642d4e4a568f00da2d06d015f670512074268bc105fa9de896ec5a"
+        }
+      ]
+    },
+    "createdAt": 1763197594747
+  },
+  {
+    "id": "dept1_class5",
+    "name": "Class 5",
+    "deptId": "dept1",
+    "blockchain": {
+      "name": "School of Computing - Class 5",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197614386,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Computing - Class 5"
+          },
+          "prev_hash": "00009e5b829d04372864c7c93c2cfc328685e68f98ae68b919bd3a3cb107eb10",
+          "nonce": 31119,
+          "hash": "000097b8d3f4f94e05329d4bd3c53da90bc37ad30cede7747e88c3696d803c26"
+        }
+      ]
+    },
+    "createdAt": 1763197614512
+  },
+  {
+    "id": "dept2_class1",
+    "name": "Class 1",
+    "deptId": "dept2",
+    "blockchain": {
+      "name": "School of Software Engineering - Class 1",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197633627,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Software Engineering - Class 1"
+          },
+          "prev_hash": "000079b0d5d2fe9b33a1c2b479f6c62f296ac5dd159e63d3668b612c7f2f913d",
+          "nonce": 9331,
+          "hash": "000061890a459ed62bf0e7db75103c1ed06d6e0f4be7a061bbbfa59ea2b37ee4"
+        }
+      ]
+    },
+    "createdAt": 1763197633675
+  },
+  {
+    "id": "dept2_class2",
+    "name": "Class 2",
+    "deptId": "dept2",
+    "blockchain": {
+      "name": "School of Software Engineering - Class 2",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197656834,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Software Engineering - Class 2"
+          },
+          "prev_hash": "000079b0d5d2fe9b33a1c2b479f6c62f296ac5dd159e63d3668b612c7f2f913d",
+          "nonce": 7954,
+          "hash": "000075af2f51a70cc75c0785c20ac9aba9520ac221d21963651f09abeb42a938"
+        }
+      ]
+    },
+    "createdAt": 1763197656873
+  },
+  {
+    "id": "dept2_class3",
+    "name": "Class 3",
+    "deptId": "dept2",
+    "blockchain": {
+      "name": "School of Software Engineering - Class 3",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197675354,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Software Engineering - Class 3"
+          },
+          "prev_hash": "000079b0d5d2fe9b33a1c2b479f6c62f296ac5dd159e63d3668b612c7f2f913d",
+          "nonce": 84250,
+          "hash": "000035f3dffc2f738ad599fae7f5d685346d17278f9cad0389e1aea3eca6067c"
+        }
+      ]
+    },
+    "createdAt": 1763197675780
+  },
+  {
+    "id": "dept2_class4",
+    "name": "Class 4",
+    "deptId": "dept2",
+    "blockchain": {
+      "name": "School of Software Engineering - Class 4",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197695310,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Software Engineering - Class 4"
+          },
+          "prev_hash": "000079b0d5d2fe9b33a1c2b479f6c62f296ac5dd159e63d3668b612c7f2f913d",
+          "nonce": 27233,
+          "hash": "00006d9a64380e7056f716e6b2777926f27cec03514f34ac4c13f54982dc11fb"
+        }
+      ]
+    },
+    "createdAt": 1763197695431
+  },
+  {
+    "id": "dept2_class5",
+    "name": "Class 5",
+    "deptId": "dept2",
+    "blockchain": {
+      "name": "School of Software Engineering - Class 5",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197715831,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Software Engineering - Class 5"
+          },
+          "prev_hash": "000079b0d5d2fe9b33a1c2b479f6c62f296ac5dd159e63d3668b612c7f2f913d",
+          "nonce": 10396,
+          "hash": "0000e71ac6e052a306fcbf1e414af8ac8cbbf8abc9d2fadfa01ca491f39d8ba8"
+        }
+      ]
+    },
+    "createdAt": 1763197715879
+  },
+  {
+    "id": "class1763200116008",
+    "name": "Class1",
+    "deptId": "dept1763200027363",
+    "blockchain": {
+      "name": "School of Management - Class1",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763200116008,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Management - Class1"
+          },
+          "prev_hash": "0000b047fef087095f644520142c977bf6ad60fd39cc094306541e0a35624966",
+          "nonce": 78139,
+          "hash": "0000537688f249b27344489f93f01f81234e71f5fb6321b2313afe5d4cd4f330"
+        }
+      ]
+    },
+    "createdAt": 1763200116312
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dept1",
+    "name": "School of Computing",
+    "blockchain": {
+      "name": "School of Computing",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197206842,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Computing"
+          },
+          "prev_hash": "0",
+          "nonce": 3787,
+          "hash": "00009e5b829d04372864c7c93c2cfc328685e68f98ae68b919bd3a3cb107eb10"
+        }
+      ]
+    },
+    "createdAt": 1763197206887
+  },
+  {
+    "id": "dept2",
+    "name": "School of Software Engineering",
+    "blockchain": {
+      "name": "School of Software Engineering",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763197206887,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Software Engineering"
+          },
+          "prev_hash": "0",
+          "nonce": 24329,
+          "hash": "000079b0d5d2fe9b33a1c2b479f6c62f296ac5dd159e63d3668b612c7f2f913d"
+        }
+      ]
+    },
+    "createdAt": 1763197207018
+  },
+  {
+    "id": "dept1763200027363",
+    "name": "School of Management",
+    "blockchain": {
+      "name": "School of Management",
+      "chain": [
+        {
+          "index": 0,
+          "timestamp": 1763200027363,
+          "transactions": {
+            "type": "genesis",
+            "name": "School of Management"
+          },
+          "prev_hash": "0",
+          "nonce": 43059,
+          "hash": "000078a2b4c8c02b273573a71a6fa740c484bfd683c0f3e3be670d5c7236d3fe"
+        },
+        {
+          "index": 1,
+          "timestamp": 1763200037861,
+          "transactions": {
+            "type": "update",
+            "action": "name_updated",
+            "oldName": "School of Management",
+            "newName": "School of Management",
+            "timestamp": 1763200037861
+          },
+          "prev_hash": "000078a2b4c8c02b273573a71a6fa740c484bfd683c0f3e3be670d5c7236d3fe",
+          "nonce": 76436,
+          "hash": "0000b047fef087095f644520142c977bf6ad60fd39cc094306541e0a35624966"
+        }
+      ]
+    },
+    "createdAt": 1763200027534,
+    "updatedAt": 1763200038254
+  }
+]
