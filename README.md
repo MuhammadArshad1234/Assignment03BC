@@ -27,25 +27,22 @@ npm install
 npm start
 ```
 
-## 📚 Full Documentation
-See [DOCUMENTATION.md](DOCUMENTATION.md) for complete details.
+
 
 ## 🛠️ Tech Stack
 - **Backend:** Node.js, Express.js, SHA-256 Crypto
 - **Frontend:** React 18, Axios, Lucide Icons, Tailwind CSS
 - **Storage:** JSON Files (MongoDB ready)
 
-## 📸 Screenshots
-![Dashboard](screenshots/dashboard.png)
 
 ## 🌐 Live Demo
-- **Frontend:** [Vercel Link]
-- **Backend:** [Render Link]
+- **Frontend:** [http://localhost:3000/]
+- **Backend:** [http://localhost:5000/api]
 
 ## 👨‍💻 Author
 **Muhammad Arshad Ali**
-- GitHub: [MuhammadArshad1234]()
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [https://github.com/MuhammadArshad1234]
+- LinkedIn: [www.linkedin.com/in/muhammad-arshad-ali-9b5653271]
 
 ## 📝 License
 MIT License
