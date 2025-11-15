@@ -44,7 +44,7 @@ See [DOCUMENTATION.md](DOCUMENTATION.md) for complete details.
 
 ## 👨‍💻 Author
 **Muhammad Arshad Ali**
-- GitHub: []()
+- GitHub: [MuhammadArshad1234]()
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ## 📝 License
